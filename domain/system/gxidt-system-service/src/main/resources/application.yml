@@ -1,0 +1,10 @@
+
+############################################################
+#
+# mybatis 配置
+# !!! 更改路径
+#
+############################################################
+#mybatis:
+#  type-aliases-package: com.gxidt.system.pojo          # 所有POJO类所在包路径
+#  mapper-locations: classpath:mapper/*.xml      # mapper映射文件
